@@ -15,9 +15,7 @@ const Layout = ({ children, ...props }: ComponentPropsWithoutRef<"div">) => {
             "오버워치 대리, 오버워치 강의, 업계 최저가의 맥스팀을 만나보세요 ",
           images: [
             {
-              url: "https://raw.githubusercontent.com/GrangbelrLurain/overwatchTeamMax/master/public/team_banner.png?token=GHSAT0AAAAAACMCDGFUAJI7LOEUOKBHIEAMZNHJ5KQ",
-              width: 630,
-              height: 630,
+              url: "https://raw.githubusercontent.com/GrangbelrLurain/overwatchTeamMax/master/public/team_twitter_banner.png?token=GHSAT0AAAAAACMCDGFUAJI7LOEUOKBHIEAMZNHJ5KQ",
               alt: "맥스팀 소개 이미지",
             },
           ],
@@ -26,7 +24,7 @@ const Layout = ({ children, ...props }: ComponentPropsWithoutRef<"div">) => {
           handle: "@handle",
           site: "@site",
           cardType:
-            "https://raw.githubusercontent.com/GrangbelrLurain/overwatchTeamMax/master/public/team_banner.png?token=GHSAT0AAAAAACMCDGFUAJI7LOEUOKBHIEAMZNHJ5KQ",
+            "https://raw.githubusercontent.com/GrangbelrLurain/overwatchTeamMax/master/public/team_twitter_banner.png?token=GHSAT0AAAAAACMCDGFUAJI7LOEUOKBHIEAMZNHJ5KQ",
         }}
       />
       <div className="drawer drawer-end">
