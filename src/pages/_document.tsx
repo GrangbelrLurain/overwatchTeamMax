@@ -5,6 +5,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <link rel="shortcut icon" href="max_logo.png" />
+        <meta name="keywords" content="오버워치2, 첫구매10%할인" />
         <meta
           name="naver-site-verification"
           content="523d5596e009b7e5fce9c2038915e67947c45ed8"

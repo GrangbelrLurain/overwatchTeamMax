@@ -16,6 +16,9 @@ const Layout = ({ children, ...props }: ComponentPropsWithoutRef<"div">) => {
           images: [
             {
               url: "https://raw.githubusercontent.com/GrangbelrLurain/overwatchTeamMax/master/public/team_banner.png?token=GHSAT0AAAAAACMCDGFUAJI7LOEUOKBHIEAMZNHJ5KQ",
+              width: 630,
+              height: 630,
+              alt: "맥스팀 소개 이미지",
             },
           ],
         }}
