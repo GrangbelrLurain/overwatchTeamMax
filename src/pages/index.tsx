@@ -13,6 +13,7 @@ const Home = () => {
     <>
       <Head>
         <title>TEAM MAX</title>
+        <meta name="description" content="맥스팀: 오버워치 대리, 오버워치 강의, 업계 최고 강사진" />
       </Head>
       <main className="flex flex-col gap-2 pb-10 px-2">
         <Container className="rounded-lg overflow-hidden w-full">
@@ -25,7 +26,9 @@ const Home = () => {
           </p>
           <div className="flex justify-between">
             <p>좋은 강사님과 효과적인 강의를 진행할 수 있습니다.</p>
-            <Link href="/kotch" className="btn btn-xs">강사소개 더보기</Link>
+            <Link href="/kotch" className="btn btn-xs">
+              강사소개 더보기
+            </Link>
           </div>
           <div className="mt-2">
             <KotchSwiper />

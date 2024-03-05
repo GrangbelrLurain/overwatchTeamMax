@@ -6,6 +6,7 @@ const TeamPage = () => {
     <main className="pb-10 px-2">
       <Head>
         <title>TEAM MAX - 팀 소개</title>
+        <meta name="description" content="맥스팀: 오버워치 대리, 오버워치 강의, 업계 최고 강사진" />
       </Head>
       <Container>
         <figure className="max-w-[40rem] mx-auto">

@@ -12,6 +12,7 @@ const Price = () => {
     <main className="pb-10 px-2">
       <Head>
         <title>TEAM MAX - 가격표</title>
+        <meta name="description" content="맥스팀: 오버워치 대리, 오버워치 강의, 업계 최고 강사진" />
       </Head>
       <PriceContainer>
         <PriceH2>승당제 강의</PriceH2>
