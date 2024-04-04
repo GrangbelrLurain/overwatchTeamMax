@@ -7,12 +7,12 @@ const Layout = ({ children, ...props }: ComponentPropsWithoutRef<"div">) => {
   return (
     <div className="flex flex-col min-h-screen" {...props}>
       <NextSeo
-        description="오버워치 대리, 오버워치 강의, 업계 최저가의 맥스팀을 만나보세요."
+        description="오버워치 대리, 오버워치 강의, 업계 최고 강사진"
         canonical="https://www.xn--b02b03n87n.com/"
         openGraph={{
           title: "맥스팀",
           description:
-            "오버워치 대리, 오버워치 강의, 업계 최저가의 맥스팀을 만나보세요 ",
+            "오버워치 대리, 오버워치 강의, 업계 최고 강사진",
           images: [
             {
               url: "https://raw.githubusercontent.com/GrangbelrLurain/overwatchTeamMax/master/public/team_twitter_banner.png?token=GHSAT0AAAAAACMCDGFUAJI7LOEUOKBHIEAMZNHJ5KQ",
