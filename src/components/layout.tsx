@@ -10,7 +10,7 @@ const Layout = ({ children, ...props }: ComponentPropsWithoutRef<"div">) => {
         description="오버워치 대리, 오버워치 강의, 업계 최고 강사진"
         canonical="https://www.xn--b02b03n87n.com/"
         openGraph={{
-          title: "맥스팀",
+          title: "맥스팀: 오버워치 대리, 오버워치 강의, 업계 최고 강사진",
           description:
             "오버워치 대리, 오버워치 강의, 업계 최고 강사진",
           images: [
