@@ -12,7 +12,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>TEAM MAX</title>
+        <title>맥스팀: 오버워치 대리, 오버워치 강의, 업계 최고 강사진</title>
         <meta name="description" content="맥스팀: 오버워치 대리, 오버워치 강의, 업계 최고 강사진" />
       </Head>
       <main className="flex flex-col gap-2 pb-10 px-2">
